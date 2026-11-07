@@ -1,0 +1,8 @@
+{
+  "appId": "com.stw.player",
+  "appName": "StW",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
